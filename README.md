@@ -25,7 +25,7 @@ I have a strong foundation in statistics, machine learning, and data analysis, w
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
 </p>
 
-## Connect with Me
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/noel-francis-dcosta" target="_blank">
