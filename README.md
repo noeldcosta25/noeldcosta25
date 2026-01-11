@@ -13,7 +13,7 @@ I’m passionate about transforming data into insights and building intelligent 
 I have a strong foundation in statistics, machine learning, and data analysis, with a keen interest in NLP, predictive modeling, and AI systems, and I am skilled in Python, Pandas, NumPy, Scikit-learn, and TensorFlow.
 
 ## Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
