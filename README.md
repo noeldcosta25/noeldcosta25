@@ -1,7 +1,12 @@
+<div align="center">
+<strong>Hello World,<br />
+Welcome to my GitHub!
+</strong>
+
 ## Hi there, I'm Noel 
 🎓 Data Science & Machine Learning Enthusiast | Python | Statistics | Deep Learning | NLP | CV | GenAI | RAG
 
-Welcome to my GitHub profile! I’m passionate about transforming data into insights and building intelligent systems using machine learning and AI. I enjoy solving real-world problems through data, models, and clean code.
+I’m passionate about transforming data into insights and building intelligent systems using machine learning and AI. I enjoy solving real-world problems through data, models, and clean code.
 
 ##  About Me  
 
@@ -26,20 +31,8 @@ I have a strong foundation in statistics, machine learning, and data analysis, w
 </p>
 
 ## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/noel-francis-dcosta" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:noeldcosta36@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-francis-dcosta)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:noeldcosta36@gmail.com)
 <!--
 **noeldcosta25/noeldcosta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
