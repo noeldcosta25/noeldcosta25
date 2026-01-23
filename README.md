@@ -4,7 +4,7 @@ Welcome to my GitHub!
 </strong>
 
 ## Hi there, I'm Noel 
-🎓 Data Science & Machine Learning Enthusiast | Python | Statistics | Deep Learning | NLP | CV | GenAI | RAG
+🎓 Data Science & Machine Learning Enthusiast | Python | Statistics | Deep Learning | NLP
 
 I’m passionate about transforming data into insights and building intelligent systems using machine learning and AI. I enjoy solving real-world problems through data, models, and clean code.
 
