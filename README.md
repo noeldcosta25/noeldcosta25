@@ -6,11 +6,9 @@ Welcome to my GitHub!
 ## Hi there, I'm Noel 
 🎓 Data Science & Machine Learning Enthusiast | Python | Statistics | Deep Learning | NLP
 
+##  About Me
+
 I’m passionate about transforming data into insights and building intelligent systems using machine learning and AI. I enjoy solving real-world problems through data, models, and clean code.
-
-##  About Me  
-
-I have a strong foundation in statistics, machine learning, and data analysis, with a keen interest in NLP, predictive modeling, and AI systems, and I am skilled in Python, Pandas, NumPy, Scikit-learn, and TensorFlow.
 
 ## Languages and Tools
 <p align="center">
